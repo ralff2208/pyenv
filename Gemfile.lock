@@ -123,7 +123,7 @@ GEM
       toml (~> 0.1)
       train (~> 0.28)
     ipaddress (0.8.3)
-    json (2.1.0)
+    json (2.3.1)
     kitchen-docker (2.6.0)
       test-kitchen (>= 1.0.0)
     kitchen-inspec (0.19.0)
